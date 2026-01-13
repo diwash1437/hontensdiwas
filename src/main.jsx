@@ -5,7 +5,7 @@ import './index.css'
 import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/honten_restaurant_website">
+  <BrowserRouter basename="/hontenss/">
     <App />
   </BrowserRouter>
 )
