@@ -1,13 +1,14 @@
-
+import { Routes, Route } from 'react-router-dom';
+import Restaurant from "./Recipe/Restaurant";
 import './App.css'
 
 function App() {
 
 
   return (
-    <>
-  <p>diwash</p>
-    </>
+ <Routes>
+  <Route path="/" element={<Restaurant/>}/>
+ </Routes>
   )
 }
 
