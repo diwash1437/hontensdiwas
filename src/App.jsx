@@ -9,7 +9,7 @@ function App() {
   return (
  <Routes>
   <Route path="/" element={<Restaurant/>}/>
-  <Routes path="/nabata" element={<NabataColtd153/>}/>
+  <Route path="/nabata" element={<NabataColtd153/>}/>
  </Routes>
   )
 }
