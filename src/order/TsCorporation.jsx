@@ -32,7 +32,7 @@ export function TsCorporation()
                         return(
                     <tr key={item.id}>
                     <td>{item.name}</td>
-                    <td>{item.eName}</td>
+                    <td>{item.ename}</td>
              
                     <td className="imgWrapper"> {<img src={item.image} width="90" className="tsCorporation"/>}</td>
                 

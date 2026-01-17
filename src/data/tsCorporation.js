@@ -5,7 +5,7 @@ export const tsCorporation=[
     { id: 'ts4', name: 'ウチモモ＿ステーキ店' },
     { id: 'ts5', name: 'ハラミ＿ステーキ店' },
     { id: 'ts6', name: '神戸牛　サーロイン' },
-    { id: 'ts7', name: 'Rバーニャソース1ｋｇ听ＰＢ＿バラ', eName:"Bagna Sauce", image:'./image/tsCorporation/bagnaSauce.png' },
+    { id: 'ts7', name: 'Rバーニャソース1ｋｇ听ＰＢ＿バラ', ename:'Bagna Sauce', image:'./image/tsCorporation/bagnaSauce.png' },
     { id: 'ts8', name: '土鍋用ハンバーグ' },
     { id: 'ts9', name: 'カイノミ＿ステーキ店' },
     { id: 'ts10', name: 'ランプ＿ステーキ店' },
